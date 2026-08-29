@@ -58,8 +58,8 @@ npm run build
 
 ## Demo
 
-Live demo: `<vercel-url>`
+Live demo: `https://hillel-fullstackjs2026-home-task-50.vercel.app`
 
 ## Repository
 
-Repository: `<repository-url>`
+Repository: `https://github.com/omnimon/hillel_fullstackjs2026_home_task_50_memoization`
